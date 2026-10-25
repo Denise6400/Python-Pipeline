@@ -1,0 +1,9 @@
+outcome,model,n,mmHg_per_10_points
+systolic_mean,"Unweighted, unadjusted",4578,-0.1309447885746189
+systolic_mean,"Weighted, unadjusted",4578,-0.5715520651153128
+systolic_mean,"Unweighted, age/treatment adjusted",4578,-1.13541282474703
+systolic_mean,"Weighted, age/treatment adjusted",4578,-1.2660074940046862
+diastolic_mean,"Unweighted, unadjusted",4578,-0.6653024392649861
+diastolic_mean,"Weighted, unadjusted",4578,-0.8169595856996735
+diastolic_mean,"Unweighted, age/treatment adjusted",4578,-0.7315128404281672
+diastolic_mean,"Weighted, age/treatment adjusted",4578,-0.7998943742206255

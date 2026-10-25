@@ -1,0 +1,7 @@
+{
+  "cholesterol_ids_unique": true,
+  "bp_ids_unique": true,
+  "positive_model_weights": true,
+  "complete_model_variables": true,
+  "treatment_counts_reconcile": true
+}
